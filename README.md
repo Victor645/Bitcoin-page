@@ -1,0 +1,1 @@
+Welcome to the Bitcoin Page! This page is dedicated to providing information about Bitcoin, a decentralized digital currency. Bitcoin is a form of cryptocurrency that operates on a peer-to-peer network, enabling secure and instant transactions without the need for intermediaries like banks or governments.
