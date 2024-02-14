@@ -1,0 +1,257 @@
+body{
+    box-sizing: border-box;
+}
+
+#links:hover{
+    color: orange;
+    transition: 0.8s ease;
+}
+
+.hero{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("IMG/images folder1/header-bg.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position:top center;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+.w-txt{
+    text-align: center;
+}
+
+.h-txt{
+    color: orange;
+    font-size:70px;
+    font-weight: 900;
+}
+
+.hero_text{
+    color: white;
+    font-size: 28px;
+}
+
+.bt{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+#bt{
+    background-color:orange;
+    color:white;
+    width:350px;
+    height:50px;
+    border:none;
+    border-radius: 5px;
+}
+
+#bt:hover{
+    background-color:white;
+    color:orange;
+    transition: 1s ease;
+}
+
+#about-sec{
+    margin-top:40px;
+    margin-bottom:50px;
+}
+
+.a-img{
+    width:400px;
+    height:400px;
+    float:left;
+}
+
+.a-head{
+    color: orange;
+    font-size:45px;
+    font-weight: bold;
+}
+
+.a-word{
+    border-top:dashed;
+}
+   
+   #buy-sec{
+    background-color:orange;
+   }
+   
+   #btc-sec{
+    background-color:orange;
+    margin-bottom:0px;
+    padding-left:40px;
+    padding-right:35px;
+   }
+   
+   
+   
+   .btc-head{
+    text-align:center;
+    color:white;
+    border-bottom: 1px dashed;
+    font-weight:900;
+    font-size:40px;
+    margin-top: 90px;
+    padding-top:50px;
+   }
+   
+   .b-con{
+    text-align: center;
+    padding-top:30px;
+    padding-top:20px;
+    border-bottom: 1px dashed orange;
+    font-size:30px;
+   }
+   
+   .bh{
+    color: white;
+    font-weight: 700;
+    margin-top:40px;
+    border-bottom:2.5px dashed white;
+   }
+.news1{
+		font-size:60px;
+		font-family:sans-serif;
+	}
+	
+ span{
+  text-align: center;
+  padding-left:30px; 
+ }
+ 
+ .btn-sm{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+ }
+ 
+	.card{
+		text-align: center;
+	}
+	
+	.img1{
+		width: 130px;
+		height:50px;
+		margin-left: auto;
+		margin-right: auto;
+		display:block;
+		text-align:center;
+  padding-top:10px; 
+	}
+	
+	.s-cards{
+		width:350px;
+		height:350px;
+		background: white;
+				border-radius: 5px;
+		padding:55px;
+		margin:30px 55px 20px 55px;
+		display:inline-block;
+  justify-content:center;
+  align-items:center;
+	}
+ 
+ .btc-bn{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  padding-top:25px;
+ }
+	
+ .btn-md{
+  border:none;
+  background-color:orange;
+  color:white;
+  width:100px;
+  height:40px;
+  border-radius:5px;
+  cursor: pointer;
+ }
+ 
+ .btn-md:hover{
+  background-color:black;
+  transition:1s ease;
+ }
+ 
+	.cards2{
+		text-align:center;
+	}
+	
+	.news2{
+		font-size:60px;
+		font-family:sans-serif;
+	}
+	
+	.img-card{
+		margin: 40px 30px 40px 30px;
+	}
+
+
+.sell-sec{
+ background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("IMG/old-img/blog-3.jpg");
+ margin-top:90px;
+ padding-left:40px;
+ padding-right:35px;
+}
+
+#contact{
+ background-color:black;
+}
+
+.form-head{
+ text-align:center;
+    color:orange;
+    border-bottom: 1px dashed;
+    font-weight:900;
+    font-size:40px;
+    margin-top: 90px;
+    padding-top:50px;
+}
+
+form{
+ padding-top:30px;
+ padding-left:20px;
+ padding-right:15px;
+}
+
+.input{
+ margin:15px;
+ margin-bottom: 50px;
+}
+
+input{
+ background-color:black;
+ border-color: whitesmoke;
+ width:270px;
+ height:50px;
+ padding:23px;
+ color:white;
+}
+
+textarea{
+ width:900px;
+ height:90px;
+ background-color:black;
+ border-color:white;
+ color:white;
+}
+
+.btn-co{
+  border:none;
+  background-color:orange;
+  color:white;
+  width:150px;
+  height:40px;
+  border-radius:5px;
+  cursor: pointer;
+ }
+ 
+ .col{
+  color:white;
+  padding:15px;
+  margin-left:40px;
+  padding-top:50px;
+ }
